@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-smartdashboard-dev-123243-authRole",
+      "UnauthRoleArn": "arn:aws:iam::409460944769:role/amplify-smartdashboard-dev-123243-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::409460944769:role/amplify-smartdashboard-dev-123243-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-smartdashboard-dev-123243-deployment",
+      "UnauthRoleName": "amplify-smartdashboard-dev-123243-unauthRole",
+      "StackName": "amplify-smartdashboard-dev-123243",
+      "StackId": "arn:aws:cloudformation:us-east-1:409460944769:stack/amplify-smartdashboard-dev-123243/87c07460-5b45-11eb-bad1-0af9e889672b",
+      "AmplifyAppId": "d35kzdd6nxkuny"
+    },
+    "categories": {
+      "auth": {
+        "smartdashboardf022dddf": {}
+      }
+    }
+  }
+}
